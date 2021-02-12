@@ -1,0 +1,2 @@
+# lolscoin
+lolcoin cryptocurrency
